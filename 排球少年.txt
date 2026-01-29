@@ -1,8 +1,8 @@
 排球少年
-版本号：1.0.3
+版本号：1.0.4
 维护者：¿?CRazy
 更新时间：2026-1-30
-//参考ao3标签，顺序大体参考背号，一些教练、经理、家人等也直接按学校分写一起了，只写了部分学校部分角色
+//参考ao3标签，顺序大体参考背号，一些教练、经理、家人等也直接按学校分写一起了，只写了部分角色
 词条
 //音驹
 Nekoma=音驹
@@ -125,7 +125,15 @@ Komori Motoya=古森元也
 Kamomedai =鸥台
 Hoshiumi Kourai=星海光来
 Hirugami Sachiro=昼神幸郎
-//其他
-MSBY = 黑狼队
-Adlers = 阿德勒
+//MSBY
+Black Jackal= 黑狼队
+Meian Shuugo=明暗修吾
+Samson Foster=阿德里亚 托马斯
+Inunaki Shion=犬鸣席恩
+//阿德勒
+Schweiden Adlers =施怀登 阿德勒
+Hirugami Fukurou=昼神福郎
+Nicolas Romero=尼古拉斯·罗梅罗
+Heiwajima Toshirou=平和岛登志郎
+Sokolov Tatsuto=索科洛夫尊人
 
