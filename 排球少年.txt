@@ -1,0 +1,130 @@
+排球少年
+版本号：1.0.1
+维护者：¿?CRazy
+更新时间：2026-1-30
+//参考ao3标签，顺序大体参考背号，一些教练、经理、家人等也直接按学校分写一起了，只写了部分学校部分角色
+//音驹
+Nekoma=音驹
+Nekomata Yasufumi=猫又育史
+Kuroo Tetsurou=黑尾铁朗
+Kai Nobuyuki=海信行
+Yaku Morisuke=夜久卫辅
+Yamamoto Taketora=山本猛虎  
+Kozume Kenma=孤爪研磨
+Fukunaga Shouhei=福永招平
+Inuoka Sou=犬冈走
+Haiba Lev=灰羽列夫
+Shibayama Yusei=芝山优生
+Yamamoto Akane=山本茜
+Haiba Arisa 灰羽爱丽莎
+//青城
+Aoba Johsai=青叶城西
+Oikawa Tooru=及川彻
+Matsukawa Issei=松川一静
+Hanamaki Takahiro=花卷贵大
+Iwaizumi Hajime=岩泉一
+Yahaba Shigeru=矢巾秀
+Watari Shinji=渡亲治
+Kindaichi Yuutarou=金田一勇太郎
+Kunimi Akira=国见英
+Kyoutani Kentarou=京谷贤太郎
+//枭谷
+Fukurodani=枭谷
+Washio Tatsuki=鹫尾辰生
+Sarukui Yamato=榬杙大和
+Bokuto Koutarou=木兔光太郎
+Akaashi Keiji=赤苇京治
+Konoha Akinori=木叶秋纪
+Komi Haruki=小见春树
+Onaga Wataru=尾长涉
+//乌野
+Karasuno=乌野
+Sawamura Daichi=泽村大地
+Sugawara Koushi=菅原孝友
+Azumane Asahi=东峰旭 
+Nishinoya Yuu=西谷夕   
+Tanaka Ryuunosuke=田中龙之介
+Ennoshita Chikara=缘下力
+Narita Kazuhito=成田一仁
+Kinoshita Hasashi=木下久志
+Kageyama Tobio=影山飞雄
+Hinata Shouyou=日向翔阳
+Tsukishima Kei=月岛萤
+Yamaguchi Tadashi=山口忠
+Ukai Ikkei=乌养一系
+Ukai Keishin=乌养系心
+Takeda Ittetsu=武田一铁
+Shimizu Kiyoko=清水洁子
+Yachi Hitoka=谷地仁花
+Shimada Makoto=嶋田诚
+Mori Yukinari=森行成
+Hinata Natsu=日向夏
+Tsukishima Akiteru=月岛明光
+Tanaka Saeko=田中冴子
+//白鸟泽
+Shiratorizawa=白鸟泽
+Ushijima Wakatoshi=牛岛若利 
+Semi Eita=漱见英太
+Oohira Reon=大平狮音
+Tendou Satori=天童觉  
+Goshiki Tsutomu=五色工
+Shirabu Kenjirou=白布贤二郎   
+Kawanishi Taichi=川西太一
+Yamagata Hayato=山形隼人
+//稻荷崎
+Inarizaki = 稻荷崎
+Kita Shinsuke=北信介
+Omimi Ren=大耳练
+Ojiro Aran=尾白阿兰
+Miya Atsumu=宫侑
+Ginjima Hitoshi=银岛结
+Suna Rintaro=角名伦太郎
+Miya Osamu=宫治
+Riseki Heisuke=理石平介
+Akagi Michinari=赤木路成
+//伊达工
+Datekou =伊达工
+Aone Takanobu=青根高伸
+Futakuchi Kenji=二口坚治
+Abara Yutaka=小原丰
+Kamasaki Yasushi=镰先靖志
+Moniwa Kaname=茂庭要
+Sasaya Takehito=笹谷武仁
+Koganegawa Kanji=黄金川贯至
+Onaga Wataro=女川太郎
+Fukiage Jingo=吹上仁悟
+Sakunami Kousuke=作并浩辅
+//户美
+Nohebi=户美
+Daishou Suguru=大将优
+Takachiho Yoshiya=高千穗惠也
+Numai Kazuma=沼井和马
+Hiroo Kouji=广尾倖儿
+Sakishima Isumi=先岛伊澄
+Akama Sou=赤间飒
+Seguro Akihiko=背黑晃彦
+Kuguri Naoyasu=潜尚保
+Yamaka Mika=山架美华
+//条善寺
+Jouzenji=条善寺
+Terashima Youji=照岛游儿
+Bobata Kazuma=母畑和马
+Futamata Takeharu=二岐丈春
+Higashiyama Katsumichi=东山胜道
+Numajiri Rintarou=沼尻凛太郎
+Iizaka Nobuyoshi=饭坂信义
+Tsuchiyu Arata=土汤新
+Misaki Hana=三咲华
+//井闼山
+Itachiyama=井闼山
+Iizuna Tsukasa=饭纲掌
+Sakusa Kiyoomi=佐久早圣臣
+Komori Motoya=古森元也
+//鸥台
+Kamomedai =鸥台
+Hoshiumi Kourai=星海光来
+Hirugami Sachiro=昼神幸郎
+//其他
+MSBY = 黑狼队
+Adlers = 阿德勒
+
