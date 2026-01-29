@@ -1,5 +1,5 @@
 排球少年
-版本号：1.0.2
+版本号：1.0.3
 维护者：¿?CRazy
 更新时间：2026-1-30
 //参考ao3标签，顺序大体参考背号，一些教练、经理、家人等也直接按学校分写一起了，只写了部分学校部分角色
@@ -79,7 +79,7 @@ Omimi Ren=大耳练
 Ojiro Aran=尾白阿兰
 Miya Atsumu=宫侑
 Ginjima Hitoshi=银岛结
-Suna Rintaro=角名伦太郎
+Suna Rintarou=角名伦太郎
 Miya Osamu=宫治
 Riseki Heisuke=理石平介
 Akagi Michinari=赤木路成
