@@ -1,5 +1,5 @@
 排球少年
-版本号：1.0.5
+版本号：1.0.6
 维护者：¿?CRazy
 更新时间：2026-1-30
 //参考ao3标签，顺序大体参考背号，一些教练、经理、家人等也直接按学校分写一起了，只写了部分角色
@@ -128,10 +128,10 @@ Hirugami Sachiro=昼神幸郎
 //MSBY
 Black Jackal= 黑狼队
 Meian Shuugo=明暗修吾
-Samson Foster=阿德里亚 托马斯
+Samson Foster=阿德里亚·托马斯
 Inunaki Shion=犬鸣诗音
 //阿德勒
-Schweiden Adlers =施怀登 阿德勒
+Schweiden Adlers =施怀登·阿德勒
 Hirugami Fukurou=昼神福郎
 Nicolas Romero=尼古拉斯·罗梅罗
 Heiwajima Toshirou=平和岛登志郎
