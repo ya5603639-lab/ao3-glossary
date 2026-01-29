@@ -1,10 +1,11 @@
 网球王子
-版本号：1.0.2
+//版本号：1.0.3
 维护者：¿?CRazy
 更新时间：2026-1-27
 //人太多了而且其实新网王没看，有的角色我根本不认识，搜到几个算几个，罗马音参考ao3标签
 词条
 //立海大
+Rikkaidai=立海大
 Niou Masaharu=仁王雅治
 Yagyuu Hiroshi=柳生比吕士
 Yukimura Seiichi=幸村精市
@@ -55,7 +56,7 @@ Kite Eishirou=木手永四郎
 Kai Yujiroh=甲斐裕次郎
 Hirakoba Rin=平古场 凛
 Chinen Hiroshi=知念宽
-Tanishi Kei=田仁志 慧
+Tanishi Kei=田仁志 慧//此处为网球王子的田仁志 慧，与排球少年里的Tsukishima Kei均读Kei，注意区分
 Shiranui Tomoya=不知火知弥
 Aragaki Koichi=新垣浩一
 Saotome Harumi=早乙女晴海
