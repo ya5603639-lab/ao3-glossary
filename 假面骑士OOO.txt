@@ -1,10 +1,10 @@
 假面骑士OOO
-版本号：1.0.3
+版本号：1.0.4
 维护者：¿?CRazy
 更新时间：2026-1-30
 词条
 //库斯库契料理店
-Hino Eiji=火野 映司
+Hino Eiji=火野 映司（姓氏Hino+名Eiji，非网球王子角色，标注出处/姓氏区分，固定“火野映司”)
 Izumi Hina=泉 比奈
 Izumi Shingo=泉 信吾
 Shiraishi Chiyoko=白石 知世子
