@@ -1,5 +1,5 @@
 网球王子
-版本号：1.0.10
+版本号：1.0.11
 维护者：¿?CRazy
 更新时间：2026-1-30
 //人太多了而且其实新网王没看，有的角色我根本不认识，搜到几个算几个，罗马音参考ao3标签
@@ -41,7 +41,7 @@ Koishikawa  Kenjiro=小石川 健二郎
 Seigaku=青学
 Echizen Ryoma=越前 龙马
 Tezuka Kunimitsu=手冢 国光
-Fuji Suusuke/Fuji Syusuke/Fuji Shuusuke=不二 周助
+Fuji Shuusuke=不二 周助
 Kikumaru Eiji=菊丸 英二
 Ooishi Shuuichirou=大石 秀一郎
 Inui Sadaharu=乾 贞治
@@ -109,13 +109,13 @@ Hanamura Aoi=华村 葵
 Liliadent Krauser=利利亚丹德·藏兔座
 //U17
 Byoudouin Houou=平等院 凤凰
-Tanegashima Syuji/Tanegashima Shuuji=种岛 修二
+Tanegashima Shuuji=种岛 修二
 Duke Watanabe=杜克·渡边
 Tokugawa Kazuya=德川 和也
-Oni Juujirou/Oni Jujiro=鬼 十次郎
-Omagari Ryuji/Oomagari Ryuuji=大曲 龙次
+Oni Juujirou=鬼 十次郎
+Oomagari Ryuuji=大曲 龙次
 Kimijima Ikuto=君岛 育斗
-Toono Atsukyou/Tohno Atsukyo=远野 笃京
+Toono Atsukyou=远野 笃京
 Kaji Kazena=加治 凤多
 Ochi Tsukimitsu=越知 月光
 Mouri  Jusaburou=毛利 寿三郎
@@ -134,8 +134,8 @@ Tsuge Ryuji=拓植 龙二
 //德国
 Michael Bismarck=米海尔 俾斯麦
 Dankmar Schneider=丹克马尔 施奈德
-Jurgen Borisovich Volk/Jürgen Borisovich Volk=优尔根 巴里萨维奇 波尔克
-Berti Borisovich Volk/Bertie Borisovich Volk=贝尔蒂 巴里萨维奇 波尔克
+Jurgen Borisovich Volk=优尔根 巴里萨维奇 波尔克
+Berti Borisovich Volk=贝尔蒂 巴里萨维奇 波尔克
 //关智一希腊
 Zeus Iliopoulos=宙斯 伊利欧鲍罗斯
 Hermes Kounellis=赫尔墨斯 库奈里斯
@@ -145,7 +145,7 @@ Papadopoulos Evangelos=帕帕多普洛斯 埃万盖洛斯
 Apollo Stephanopoulos=阿波罗 斯特凡诺普洛斯
 Orion Stephanopoulos=俄里翁 斯特凡诺普洛斯
 //瑞士
-Alexander Amadeus/Alexandria Amadeus=亚历山大 阿玛迪斯
+Alexander Amadeus=亚历山大 阿玛迪斯
 Peter Lambiel=皮特 兰比尔
 Albert Federer=艾伯特 费德勒
 //法国
@@ -155,10 +155,10 @@ Edgar Delacroix=埃德加 德拉克洛瓦
 Timothee Moreau=迪莫迪 莫洛
 Jonathan Saint Georges=乔 纳尔 桑 乔治
 //西班牙
-Antonio da Medanoré/Antonio da Medanoré=安东奇奥 达 梅达诺雷
+Antonio da Medanoré=安东奇奥 达 梅达诺雷
 Mars de Colón=马尔斯 迪 考隆
 Rodrigo Roca Rodrigo=罗德里格 罗卡 洛迪高
-Romeo Fernandez/Romeo Fernández=罗密欧 费尔南德斯
+Romeo Fernández=罗密欧 费尔南德斯
 Sedah=塞达
 //美国
 Ralph Rhinehart=拉尔夫 莱因哈特

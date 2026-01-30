@@ -1,5 +1,5 @@
 排球少年
-版本号：1.0.11
+版本号：1.0.12
 维护者：¿?CRazy
 更新时间：2026-1-30
 //参考ao3标签，顺序大体参考背号，一些教练、经理、家人等也直接按学校分写一起了，只写了部分角色
@@ -15,7 +15,7 @@ Kozume Kenma=孤爪 研磨
 Fukunaga Shouhei=福永 招平
 Inuoka Sou=犬冈 走
 Haiba Lev=灰羽 列夫
-Shibayama Yusei/Shibayama Yuuki=芝山 优生
+SShibayama Yuuki=芝山 优生
 Yamamoto Akane=山本 茜
 Haiba Arisa 灰羽 爱丽莎
 //青城
@@ -108,7 +108,7 @@ Kuguri Naoyasu=潜 尚保
 Yamaka Mika=山架 美华
 //条善寺
 Jouzenji=条善寺
-Terashima Youji/Terushima Yuuji=照岛 游儿
+Terushima Yuuji=照岛 游儿
 Bobata Kazuma=母畑 和马
 Futamata Takeharu=二岐 丈春
 Higashiyama Katsumichi=东山 胜道
@@ -127,7 +127,7 @@ Hoshiumi Kourai=星海 光来
 Hirugami Sachiro=昼神 幸郎
 //MSBY
 Black Jackal= 黑狼队
-Meian Shuugo/Meian Shugo=明暗 修吾
+Meian Shuugo=明暗 修吾
 Samson Foster=阿德里亚 托马斯
 Inunaki Shion=犬鸣 诗音
 //阿德勒
