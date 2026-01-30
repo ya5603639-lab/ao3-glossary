@@ -1,36 +1,35 @@
 假面骑士OOO
-// 
-版本号：1.0.2
+版本号：1.0.3
 维护者：¿?CRazy
-更新时间：2026-1-27
+更新时间：2026-1-30
 词条
 //库斯库契料理店
-Hino Eiji=火野映司
-Izumi Hina=泉比奈
-Izumi Shingo=泉信吾
-Shiraishi Chiyoko=白石知世子
+Hino Eiji=火野 映司
+Izumi Hina=泉 比奈
+Izumi Shingo=泉 信吾
+Shiraishi Chiyoko=白石 知世子
 //鸿上基金会
-Date Akira=伊达明
-Gotou Shintaro=后藤慎太郎
+Date Akira=伊达 明
+Gotou Shintaro=后藤 慎太郎
 //Greed
-Ankh：安库
-Kazari：卡扎力
-Uva：乌凡
-Mezool：梅兹尔
-Gamel：加美尔
+Ankh=安库
+Kazari=卡扎力
+Uva=乌凡
+Mezool=梅兹尔
+Gamel=加美尔
 //专用词
 Kamen Rider=假面骑士
-Driver：驱动器
-Greed：贪欲者
-Kougami Foundation=鸿上基金会
-Kougami Art Museum=鸿上美术馆
+Driver=驱动器
+Greed=贪欲者
+Kougami Foundation=鸿上 基金会
+Kougami Art Museum=鸿上 美术馆
 Cous Coussier=库斯库契
-Yumemi Town=梦见町
-Medajaribur：圣徽斩剑
+Yumemi Town=梦见 町
+Medajaribur=圣徽斩剑
 Scanning Charge=扫描充能
 TaJa Spinner=鹰雀回旋盘
-RideVendor：驾驭贩卖号
-Candroid：罐头小机械
-GorillaCandroid：大猩猩罐头小机械
+RideVendor=驾驭贩卖号
+Candroid=罐头小机械
+GorillaCandroid=大猩猩罐头小机械
 Birth Buster=Birth破坏枪
 

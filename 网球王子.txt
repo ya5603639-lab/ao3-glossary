@@ -1,5 +1,5 @@
 网球王子
-版本号：1.0.7
+版本号：1.0.8
 维护者：¿?CRazy
 更新时间：2026-1-30
 //人太多了而且其实新网王没看，有的角色我根本不认识，搜到几个算几个，罗马音参考ao3标签
@@ -132,46 +132,46 @@ Kurobe Yukio=黑部 由起夫
 Saito Itaru=斋藤 至
 Tsuge Ryuji=拓植 龙二
 //德国
-Michael Bismarck=米海尔·俾斯麦
-Dankmar Schneider=丹克马尔·施奈德
-Jurgen Borisovich Volk/Jürgen Borisovich Volk=优尔根·巴里萨维奇·波尔克
-Berti Borisovich Volk/Bertie Borisovich Volk=贝尔蒂·巴里萨维奇·波尔克
+Michael Bismarck=米海尔 俾斯麦
+Dankmar Schneider=丹克马尔 施奈德
+Jurgen Borisovich Volk/Jürgen Borisovich Volk=优尔根 巴里萨维奇 波尔克
+Berti Borisovich Volk/Bertie Borisovich Volk=贝尔蒂 巴里萨维奇 波尔克
 //关智一希腊
-Zeus Iliopoulos=宙斯·伊利欧鲍罗斯
-Hermes Kounellis=赫尔墨斯·库奈里斯
-Vulcan Laertius=伏尔甘·拉尔修
-Thalatta Hercules=塔兰塔·赫拉克勒斯
-Papadopoulos Evangelos=帕帕多普洛斯·埃万盖洛斯
-Apollo Stephanopoulos=阿波罗·斯特凡诺普洛斯
-Orion Stephanopoulos=俄里翁·斯特凡诺普洛斯
+Zeus Iliopoulos=宙斯 伊利欧鲍罗斯
+Hermes Kounellis=赫尔墨斯 库奈里斯
+Vulcan Laertius=伏尔甘 拉尔修
+Thalatta Hercules=塔兰塔 赫拉克勒斯
+Papadopoulos Evangelos=帕帕多普洛斯 埃万盖洛斯
+Apollo Stephanopoulos=阿波罗 斯特凡诺普洛斯
+Orion Stephanopoulos=俄里翁 斯特凡诺普洛斯
 //瑞士
-Alexander Amadeus/Alexandria Amadeus=亚历山大·阿玛迪斯
-Peter Lambiel=皮特·兰比尔
-Albert Federer=艾伯特·费德勒
+Alexander Amadeus/Alexandria Amadeus=亚历山大 阿玛迪斯
+Peter Lambiel=皮特 兰比尔
+Albert Federer=艾伯特 费德勒
 //法国
-Leopold Camus de Charpentier=利奥波德·加缪·顿·夏庞蒂埃
-Tristan Bardot=特里斯坦·巴尔特
-Edgar Delacroix=埃德加·德拉克洛瓦
-Timothee Moreau=迪莫迪·莫洛
-Jonathan Saint Georges=乔纳尔·桑·乔治
+Leopold Camus de Charpentier=利奥波德 加缪 顿 夏庞蒂埃
+Tristan Bardot=特里斯坦 巴尔特
+Edgar Delacroix=埃德加 德拉克洛瓦
+Timothee Moreau=迪莫迪 莫洛
+Jonathan Saint Georges=乔 纳尔 桑 乔治
 //西班牙
-Antonio da Medanoré/Antonio da Medanoré=安东奇奥·达·梅达诺雷
-Mars de Colón=马尔斯·迪·考隆
-Rodrigo Roca Rodrigo=罗德里格·罗卡·洛迪高
-Romeo Fernandez/Romeo Fernández=罗密欧·费尔南德斯
-Sedah：塞达
+Antonio da Medanoré/Antonio da Medanoré=安东奇奥 达 梅达诺雷
+Mars de Colón=马尔斯 迪 考隆
+Rodrigo Roca Rodrigo=罗德里格 罗卡 洛迪高
+Romeo Fernandez/Romeo Fernández=罗密欧 费尔南德斯
+Sedah=塞达
 //美国
-Ralph Rhinehart=拉尔夫·莱因哈特
-Chic Balentien=奇柯·巴连廷
+Ralph Rhinehart=拉尔夫 莱因哈特
+Chic Balentien=奇柯 巴连廷
 //英国
-Leon Wakefield=雷欧·韦克菲尔德
+Leon Wakefield=雷欧 韦克菲尔德
 //澳大利亚
-Jason Joseph Dorgias=杰森·约瑟夫·高尔吉亚
-Jean Fitzgerald=约翰·菲茨杰拉德
-Chris Hoppman=库里斯·侯普曼
-Milky Milman=米鲁克·米尔曼
-Mac Mcgregor=马克·麦克格雷戈
-Noah J Dorgias=诺亚·J·高尔吉亚
+Jason Joseph Dorgias=杰森 约瑟夫 高尔吉亚
+Jean Fitzgerald=约翰 菲茨杰拉德
+Chris Hoppman=库里斯 侯普曼
+Milky Milman=米鲁克 米尔曼
+Mac Mcgregor=马克 麦克格雷戈
+Noah J Dorgias=诺亚  J  高尔吉亚
 //其他角色
 Echizen Nanjirou=越前 南次郎
 Rinko Takeuchi=竹内 伦子
@@ -180,7 +180,7 @@ Karupin=卡鲁宾
 Fuji Yumiko=不二 由美子
 Shiba Saori=芝 砂织
 Inoue Mamoru=井上 守
-Kevin Smith=凯文·史密斯
+Kevin Smith=凯文 史密斯
 禁翻词条
 //以防万一还是加上了
 Q·P
